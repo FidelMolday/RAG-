@@ -1,2 +1,2 @@
 # RAG-
-Gen AI project with streamlitAI
+Gen AI project with streamlitUI
